@@ -4,6 +4,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello NAGP team");
+        System.out.println( "Hello NAGP team, welcome");
     }
 }
